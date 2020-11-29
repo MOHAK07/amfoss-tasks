@@ -1,1 +1,28 @@
+#!/bin/python3
 
+import sys
+
+
+t = int(input().strip())
+for a0 in range(t):
+    n = int(input().strip())
+    
+end = 10
+a = 1
+b = 2
+total = 0
+while b<end:
+        if b%2 == 0:
+            total = total+b
+        a,b = b,a+b
+print(total)
+
+end = 100
+a = 1
+b = 2
+total = 0
+while b<end:
+        if b%2 == 0:
+            total = total+b
+        a,b = b,a+b
+print(total)        
