@@ -1,1 +1,1 @@
-
+I didn't know much coding languages but I saw some problems and I understood some them and tried with some codes which I also didn't remember because they were not enough to fullfil the conditions so I faced problems and then I decided to discontinue the task because I am not able to understand most of the problems . 
