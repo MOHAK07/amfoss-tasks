@@ -1,1 +1,1 @@
-
+I have done these problems and also in some cases I have to take some help from the internet but I am not successful in doing every problem as I just know some basics of python and still learning and also I didn't get full score in all the problems that I have attempted .
