@@ -4,4 +4,4 @@ I have made a flash drive of ubuntu using a software and run ubuntu on my pc usi
 
 Doing this first time , so faced some problems but not so much and finally its done.
 
-task-00/20201128_151312.jpg
+
