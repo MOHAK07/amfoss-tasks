@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## amFOSS tasks - Mohak khatri
 
-You can use the [editor on GitHub](https://github.com/MOHAK07/amfoss-tasks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is Mohak, fresher at Amrita School of Engineering (CSE 2020).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Table of Contents
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
