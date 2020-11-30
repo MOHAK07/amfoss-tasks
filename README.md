@@ -1,4 +1,4 @@
-# amfoss-tasks
+# amFOSS tasks - Mohak Khatri
 |Tasks|Description|
 |-----|-----------|
 |Task-00 (https://github.com/MOHAK07/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|
