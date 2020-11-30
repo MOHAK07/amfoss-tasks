@@ -18,3 +18,7 @@
 |Task-14 (https://github.com/MOHAK07/amfoss-tasks/tree/main/task-14)| Bandit|
 |Task-15 (https://github.com/MOHAK07/amfoss-tasks/tree/main/task-15)| Project Euler|
 
+
+About my tasks
+
+The tasks were really good and challenging although i have not done many of them but almost seven tasks i have done .  These tasks help me a lot in learning about new softwares and how to use them and also how to approach new problems and languages and the errors that I come across while solving these tasks . Its a totally new experience for me and the tasks were also new to me but I tried my best to solve these tasks , although I am not having much knowledge about the languages but still tried as much as I can.
