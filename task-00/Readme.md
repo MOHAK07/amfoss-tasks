@@ -6,4 +6,4 @@ Doing this first time , so faced some problems but not so much and finally its d
 
 Here is the link for my uploaded image:
 
-https://github.com/MOHAK07/amfoss-tasks/blob/main/task-00/20201128_151312.jpg
+
